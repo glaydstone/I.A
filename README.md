@@ -1,3 +1,3 @@
 # I.A
-#Data Sets- WEKA  
-Inteligência artificial
+# Data Sets- WEKA  
+Inteligência artificial e Machine learning  com WEKA
